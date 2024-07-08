@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
         child: Text('Hello World',
             style: TextStyle(
               fontSize: 24,
-              color: Color.fromRGBO(248, 0, 0, 1),
+              color: Colors.green,
               fontWeight: FontWeight.bold,
             )),
       ),
